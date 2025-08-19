@@ -7,7 +7,7 @@
 ---
 
 ## 📖 Project Description
-Scholar Hour Manager is a **Next.js web app** that helps universities manage scholarship/work-study hours.  
+Scholar Hour Manager is a **Next.js web app** that helps universities manage scholarship hours.  
 It provides a portal for admins, supervisors, and students to schedule, track, and approve scholarship shifts in a transparent and efficient way.
 
 ### ✨ Problems It Solves
