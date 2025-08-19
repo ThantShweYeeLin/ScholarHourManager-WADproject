@@ -29,19 +29,16 @@ It provides a portal for admins, supervisors, and students to schedule, track, a
   - **Student** – profile, assigned program, GPA, max hours/week  
   - **Shift** – schedule with date, location, supervisor  
   - **Attendance** – check-in/out, linked to student & shift  
-- Timesheet auto-generation from attendance records.  
-- Requests: leave, swap, or make-up shifts.  
-- Notifications (upcoming shifts, approvals).  
-- Export reports (CSV/Excel) for finance and auditing.  
+- Timesheet auto-generation from attendance records.   
 
 ---
 
 ## 🗄️ Data Models
 1. **Student** – id, name, program, GPA, maxHoursPerWeek  
-2. **Shift** – id, date, start, end, supervisor, location  
+2. **Shift** – id, date, start, end, supervisor
 3. **Attendance** – id, studentId, shiftId, checkIn, checkOut  
 
-(Additional: Supervisor, Timesheet, Request, AuditLog)
+(Additional: Supervisor, Timesheet, Request)
 
 ---
 
