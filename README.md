@@ -1,7 +1,7 @@
 # Scholar Hour Manager – Scholarship Hour Management System
 
 ## 👥 Team Members
-- Pwint Hmon Nathar [GitHub]()
+- Pwint Hmon Nathar [GitHub](https://github.com/PwintHmonNathar18)
 - Thant Shwe Yee Lin [GitHub](https://github.com/ThantShweYeeLin)
 
 ---
